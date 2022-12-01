@@ -984,6 +984,10 @@ form textarea{
 	.navli ul{
 		display:none;
 	}
+	.menu-bar{
+		display:flex;	
+	}
+	
 	.home-container{
 		text-align:center;
 		flex-direction: column-reverse;
@@ -1021,6 +1025,9 @@ form textarea{
 @media (min-width:600px) {
 	.navli ul{
 		display:none;
+	}
+	.menu-bar{
+		display:flex;	
 	}
 	
 	.home-container{
@@ -1065,6 +1072,10 @@ form textarea{
 	display:flex;
 	
 	}
+	.menu-bar{
+		display:none;	
+	}
+	
 	.home-container{
 		text-align:left;
 		flex-direction: row;
