@@ -1062,7 +1062,7 @@ form textarea{
 @media (min-width:1025px) {
 	.nav ul{
 	
-	
+	display:flex;
 	
 	}
 	.home-container{
